@@ -1,4 +1,3 @@
-<h1 align="center">👋 Olá, eu sou o Heron!</h1>
 <h3 align="center">💻 Desenvolvedor Fullstack | 🎓 Matemático & Estudante de Cibersegurança</h3>
 
 <table>
