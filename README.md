@@ -1,3 +1,6 @@
+<h1 align="center">👋 Olá, eu sou o Heron!</h1>
+<h3 align="center">💻 Desenvolvedor Fullstack | 🎓 Matemático & Estudante de Cibersegurança</h3>
+
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -9,21 +12,19 @@ Meu nome é **Heron** e sou formado em Matemática Aplicada, com grande paixão 
 Atualmente curso **pós-graduação em Cibersegurança** e **graduação em Ciência da Computação**.  
 Tenho experiência como **desenvolvedor web fullstack**, trabalhando com diversas tecnologias e frameworks.
 
-Estou em busca de novas oportunidades profissionais na área de desenvolvimento ou tecnologia.
+### ⚙️ Tecnologias:
+- 💠 .NET / Razor Pages  
+- ⚙️ C# / Python / Node.js  
+- 📱 Flutter  
+- 🐘 SQL Server / 🍃 MongoDB  
+- 🐧 Linux / OpenMP (C/C++)  
+- 🛠️ GitHub
 
-**Tecnologias com que já trabalhei:**  
-- .NET / Razor Pages / C#
-- Python  
-- Node.js / Flutter  
-- Github / Docker
-- SQL Server / MongoDB 
-- Linux
-- OpenMP (C/C++)
+### 🎯 Interesses e hobbies:
+- 🤖 Arduino e eletrônica  
+- ➗ Matemática avançada  
+- 🛡️ Segurança da informação
 
-**Hobbies e interesses:**  
-- Arduino e eletrônica  
-- Matemática avançada  
-- Segurança da informação
 
 </td>
 <td valign="top" width="50%">
@@ -35,21 +36,18 @@ I'm **Heron**, a graduate in Applied Mathematics with a deep passion for both ma
 I'm currently pursuing a **postgraduate degree in Cybersecurity** and a **bachelor's in Computer Science**.  
 I have professional experience as a **fullstack web developer**, working with a wide range of technologies and frameworks.
 
-I'm actively looking for new job opportunities in software development or related tech fields.
+### ⚙️ Technologies:
+- 💠 .NET / Razor Pages  
+- ⚙️ C# / Python / Node.js  
+- 📱 Flutter  
+- 🐘 SQL Server / 🍃 MongoDB  
+- 🐧 Linux / OpenMP (C/C++)  
+- 🛠️ GitHub
 
-**Technologies I've worked with:**  
-- .NET / Razor Pages / C#
-- Python  
-- Node.js / Flutter  
-- Github / Docker
-- SQL Server / MongoDB 
-- Linux
-- OpenMP (C/C++)
-
-**Hobbies & Interests:**  
-- Arduino and electronics  
-- Advanced mathematics  
-- Information security
+### 🎯 Interests & Hobbies:
+- 🤖 Arduino and electronics  
+- ➗ Advanced mathematics  
+- 🛡️ Information security
 
 </td>
   </tr>
