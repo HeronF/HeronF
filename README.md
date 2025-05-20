@@ -25,8 +25,6 @@ Estou em busca de novas oportunidades profissionais na área de desenvolvimento 
 - Matemática avançada  
 - Segurança da informação
 
-Mais informações no meu [LinkedIn](https://www.linkedin.com/in/heronff)
-
 </td>
 <td valign="top" width="50%">
 
@@ -52,8 +50,6 @@ I'm actively looking for new job opportunities in software development or relate
 - Arduino and electronics  
 - Advanced mathematics  
 - Information security
-
-More details on my [LinkedIn](https://www.linkedin.com/in/heronff)
 
 </td>
   </tr>
