@@ -17,7 +17,7 @@ Tenho experiência como **desenvolvedor web fullstack**, trabalhando com diversa
 - 📱 Flutter  
 - 🐘 SQL Server / 🍃 MongoDB  
 - 🐧 Linux / OpenMP (C/C++)  
-- 🛠️ GitHub
+- 🛠️ Git
 
 ### 🎯 Interesses e hobbies:
 - 🤖 Arduino e eletrônica  
@@ -41,7 +41,7 @@ I have professional experience as a **fullstack web developer**, working with a 
 - 📱 Flutter  
 - 🐘 SQL Server / 🍃 MongoDB  
 - 🐧 Linux / OpenMP (C/C++)  
-- 🛠️ GitHub
+- 🛠️ Git
 
 ### 🎯 Interests & Hobbies:
 - 🤖 Arduino and electronics  
